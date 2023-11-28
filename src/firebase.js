@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // // // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCothhqcm759qd3U-rKtIZicEph5Sl3aOY",
-    authDomain: "quizusers-424b1.firebaseapp.com",
-    projectId: "quizusers-424b1",
-    storageBucket: "quizusers-424b1.appspot.com",
-    messagingSenderId: "929049277440",
-    appId: "1:929049277440:web:3de23f86af25ebb3eb14e5"
+    apiKey: "AIzaSyC0dQvpSge8Tr3387B18UXy-SVzv0igYDI",
+    authDomain: "quiz-app-e27d8.firebaseapp.com	",
+    projectId: "quiz-app-e27d8",
+    storageBucket: "quiz-app-e27d8.appspot.com",
+    messagingSenderId: "1035231693080",
+    appId: "1:1035231693080:web:ab9e8eb55b4286875cf66d"
 };
 
 // // // Initialize Firebase
